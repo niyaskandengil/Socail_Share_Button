@@ -1,3 +1,3 @@
-# Socail_Share_Button
+# Socail Share Button
 
  Using HTML,CSS & JS
